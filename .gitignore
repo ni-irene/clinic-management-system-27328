@@ -1,0 +1,9 @@
+**/node_modules/
+**/target/
+**/dist/
+**/dist-ssr/
+**/*.log
+**/log.txt
+**/.env
+**/.env.*
+!**/.env.example
